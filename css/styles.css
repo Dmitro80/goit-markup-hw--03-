@@ -184,8 +184,6 @@ address {
 .features-list {
   display: flex;
   gap: 24px;
-  padding-left: 3px;
-  padding-right: 3px;
 }
 .features-list-items {
   width: calc((100% - 72px) / 4);
