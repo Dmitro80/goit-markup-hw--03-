@@ -106,7 +106,7 @@ address {
 }
 .adress {
   font-style: normal;
-  padding: 24px 0 24px;
+  padding: 48px 0 24px;
 }
 .address-list {
   display: flex;
