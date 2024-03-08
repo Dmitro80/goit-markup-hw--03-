@@ -32,6 +32,7 @@ address {
 /**--HEADER--*/
 
 .header {
+  border-bottom: 1px solid #e7e9fc;
 }
 .container {
   max-width: 1158px;
@@ -40,6 +41,7 @@ address {
   padding-right: 15px;
   padding-top: 120px;
   padding-bottom: 120px;
+  padding: 0 15px 0 15px;
 }
 .header-navigation {
   display: flex;
@@ -56,6 +58,7 @@ address {
   color: #4d5ae5;
   display: flex;
   align-items: center;
+  margin-right: 76px;
 }
 
 .header-menu-link {
@@ -84,6 +87,7 @@ address {
 .header-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 .header-container {
   display: flex;
