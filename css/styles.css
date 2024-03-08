@@ -59,6 +59,7 @@ address {
   display: flex;
   align-items: center;
   margin-right: 76px;
+  padding: 24px 0 24px;
 }
 
 .header-menu-link {
@@ -187,8 +188,9 @@ address {
   padding-right: 3px;
 }
 .features-list-items {
-  width: calc((100% - 3 * 24px) / 4);
+  width: calc((100% - 72px) / 4);
 }
+
 .features-list-title {
   font-weight: 500;
   font-size: 20px;
